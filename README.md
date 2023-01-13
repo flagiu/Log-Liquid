@@ -1,2 +1,2 @@
 # ISF
-Tools for calculating MSD, S(q), ISF from molecular dynamics configurations logarithmically spaced in time.
+Tools for calculating MSD and ISF of a liquid/glassy system, from MD configurations logarithmically spaced in time.
